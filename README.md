@@ -1,9 +1,17 @@
 # 👋 Hi, I'm Sauvik Nandi
 
-<h3 align="center">☕ Java Full-Stack Developer</h3>
+<h3 align="center">☕ Java Full-Stack Developer | Backend Developer</h3>
 
 <p align="center">
   Computer Science Engineering graduate focused on building secure, scalable and maintainable web applications.
+</p>
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"
+    width="500"
+    alt="Developer Coding Animation"
+  />
 </p>
 
 ---
@@ -214,8 +222,14 @@ Maven
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sauvik04&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauvik04&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sauvik04&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauvik04&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ---
@@ -223,7 +237,9 @@ Maven
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sauvik04&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Sauvik04&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -233,11 +249,15 @@ Maven
 <p align="center">
 
 <a href="https://github.com/Sauvik04">
-  <img src="https://img.shields.io/badge/GitHub-Sauvik04-181717?style=for-the-badge&logo=github" />
+  <img 
+    src="https://img.shields.io/badge/GitHub-Sauvik04-181717?style=for-the-badge&logo=github"
+  />
 </a>
 
 <a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
+  />
 </a>
 
 </p>
