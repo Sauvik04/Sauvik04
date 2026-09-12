@@ -12,6 +12,7 @@
 
 - 🎓 Computer Science Engineering graduate from SRM Institute of Science and Technology
 - ☕ Focused on **Java Full-Stack Development**
+- 🚀 Stronger focus on **Backend Development**
 - 🌱 Experienced with **Spring Boot, Spring Security, JWT and REST APIs**
 - 🖥️ Building frontend applications using **Angular and React**
 - 🗄️ Working with **PostgreSQL and MySQL**
@@ -48,12 +49,12 @@
 ## 🎨 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,rxjs" />
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css" />
 </p>
 
 <p align="center">
 
-`Angular` • `React` • `TypeScript` • `HTML5` • `CSS3` • `Bootstrap` • `RxJS` • `Responsive Design`
+`Angular` • `React` • `TypeScript` • `HTML5` • `CSS3`
 
 </p>
 
@@ -142,7 +143,8 @@ Spring Boot
 Spring Security  
 REST APIs  
 JPA / Hibernate  
-JWT
+JWT  
+JDBC
 
 </td>
 
@@ -154,8 +156,7 @@ Angular
 React  
 TypeScript  
 HTML  
-CSS  
-Bootstrap
+CSS
 
 </td>
 
@@ -244,7 +245,7 @@ Maven
 ---
 
 <p align="center">
-  <b>☕ Java • Spring Boot • Angular • PostgreSQL • Docker • AWS</b>
+  <b>☕ Java • Spring Boot • Spring Security • REST APIs • PostgreSQL • Docker • AWS</b>
 </p>
 
 <p align="center">
