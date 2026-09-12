@@ -1,178 +1,253 @@
 # 👋 Hi, I'm Sauvik Nandi
 
-## ☕ Java Full Stack Developer
+<h3 align="center">☕ Java Full-Stack Developer</h3>
 
-Building full-stack web applications with **Java, Spring Boot and Angular**.
-
-I’m a Computer Science Engineering graduate interested in backend development,
-REST APIs, databases and building practical web applications.
+<p align="center">
+  Computer Science Engineering graduate focused on building secure, scalable and maintainable web applications.
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Graduate
-- ☕ Focused on **Java Full Stack Development**
-- ⚙️ Working with **Java, Spring Boot, REST APIs, JPA and Hibernate**
-- 🌐 Building frontend applications using **Angular, TypeScript and React**
+- 🎓 Computer Science Engineering graduate from SRM Institute of Science and Technology
+- ☕ Focused on **Java Full-Stack Development**
+- 🌱 Experienced with **Spring Boot, Spring Security, JWT and REST APIs**
+- 🖥️ Building frontend applications using **Angular and React**
 - 🗄️ Working with **PostgreSQL and MySQL**
-- 🔄 Exploring **RabbitMQ, Redis and JMS**
-- ☁️ Familiar with **Docker, AWS and Jenkins**
-- 📚 Familiar with **Data Structures & Algorithms, OOP and DBMS**
+- 🔐 Interested in secure and production-oriented application development
+- 🐳 Exploring **Docker, AWS, Jenkins and CI/CD**
+- 🧠 Strong foundation in **Data Structures & Algorithms, OOP and DBMS**
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 </p>
 
 ---
 
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-`Spring Boot` • `Spring MVC` • `REST APIs` • `JPA` • `Hibernate` • `JDBC`
-
----
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
-</p>
-
-`Angular` • `TypeScript` • `React` • `RxJS` • `HTML5` • `CSS3` • `Bootstrap`
-
----
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-`PostgreSQL` • `MySQL`
-
----
-
-### 🔄 Messaging & Caching
-
-`RabbitMQ` • `JMS` • `Redis`
-
----
-
-### ☁️ DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins" />
-</p>
-
-`Docker` • `AWS` • `Jenkins` • `CI/CD`
-
----
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode" />
-</p>
-
-`Git` • `GitHub` • `Postman` • `Swagger` • `IntelliJ IDEA` • `VS Code`
-
----
-
-# 🚀 Featured Projects
-
-## 📝 SmartNotes
-
-**Java • Spring Boot • Angular • PostgreSQL • JWT**
-
-A full-stack note-taking application for organizing, searching and managing
-notes.
-
-- Built REST APIs using **Spring Boot and Spring Data JPA**
-- Implemented CRUD operations, label tagging and note archiving
-- Developed Angular UI using **RxJS and Reactive Forms**
-- Used **PostgreSQL** for data persistence
-- Implemented basic **JWT authentication**
-
-🔗 [View Project](https://github.com/Sauvik04/Fundoo_Notes)
-
----
-
-## 🛒 Toy Store Application
-
-**Java • Spring Boot • React • MySQL • JPA • Hibernate**
-
-A full-stack web application for managing a dynamic product catalog.
-
-- Developed backend REST APIs using **Spring Boot**
-- Integrated **MySQL** using Spring Data JPA and Hibernate
-- Built React frontend with search and category filtering
-- Added price-based sorting
-- Used **Bootstrap** for responsive UI
-
-🔗 [View Project](https://github.com/Sauvik04/Project_Toy-Store_Application)
-
----
-
-## ✈️ Airline Management System
-
-**Java • Swing • AWT • MySQL**
-
-A Java-based application for managing airline operations.
-
-- Developed flight and passenger management features
-- Implemented booking and cancellation functionality
-- Integrated the application with **MySQL**
-- Built the application using **Java Swing and AWT**
-
-🔗 [View Project](https://github.com/Sauvik04/Airline_Management_System)
-
----
-
-# 📚 Core Knowledge
-
-| Area | Topics |
-|---|---|
-| 💻 Programming | Java, Python, JavaScript, TypeScript |
-| 🧩 Computer Science | DSA, OOP, DBMS |
-| 🌐 Web Development | REST APIs, Frontend Development |
-| 🗄️ Databases | PostgreSQL, MySQL |
-| ☁️ DevOps | Docker, AWS, Jenkins, CI/CD |
-| 🔄 Distributed Systems | RabbitMQ, JMS, Redis |
-
----
-
-# 📊 GitHub
+## ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sauvik04&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sauvik04&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+<p align="center">
+
+`Spring Boot` • `Spring MVC` • `Spring Security` • `JWT` • `REST APIs` • `Spring Data JPA` • `Hibernate` • `JDBC`
+
 </p>
 
 ---
 
-# 🎯 Current Focus
+## 🎨 Frontend Development
 
-```text
-Java
-  ↓
-Spring Boot
-  ↓
-REST APIs
-  ↓
-JPA / Hibernate
-  ↓
-PostgreSQL
-  ↓
-Angular
-  ↓
-Docker • AWS • RabbitMQ • Redis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,rxjs" />
+</p>
+
+<p align="center">
+
+`Angular` • `React` • `TypeScript` • `HTML5` • `CSS3` • `Bootstrap` • `RxJS` • `Responsive Design`
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+<p align="center">
+
+`PostgreSQL` • `MySQL` • `MongoDB` • `Redis`
+
+</p>
+
+---
+
+## 📨 Messaging & Distributed Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rabbitmq" />
+</p>
+
+<p align="center">
+
+`RabbitMQ` • `JMS`
+
+</p>
+
+---
+
+## ☁️ DevOps & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins,git,github" />
+</p>
+
+<p align="center">
+
+`Docker` • `AWS` • `Jenkins` • `CI/CD` • `Git` • `GitHub`
+
+</p>
+
+---
+
+## 🧪 Testing & Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,idea,vscode,maven" />
+</p>
+
+<p align="center">
+
+`JUnit` • `Postman` • `Swagger` • `IntelliJ IDEA` • `VS Code` • `Maven`
+
+</p>
+
+---
+
+# 🧠 Core Competencies
+
+<p align="center">
+
+🎯 **Data Structures & Algorithms**  
+🔹 **Object-Oriented Programming**  
+🗃️ **Database Management Systems**  
+🌐 **Computer Networks**  
+⚙️ **Software Engineering**  
+🔐 **Authentication & Authorization**
+
+</p>
+
+---
+
+# 🚀 What I Work With
+
+<table align="center">
+<tr>
+<td align="center" width="250">
+
+### ☕ Backend
+
+Spring Boot  
+Spring Security  
+REST APIs  
+JPA / Hibernate  
+JWT
+
+</td>
+
+<td align="center" width="250">
+
+### 🎨 Frontend
+
+Angular  
+React  
+TypeScript  
+HTML  
+CSS  
+Bootstrap
+
+</td>
+
+<td align="center" width="250">
+
+### 🗄️ Data
+
+PostgreSQL  
+MySQL  
+MongoDB  
+Redis  
+RabbitMQ
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️ DevOps
+
+Docker  
+AWS  
+Jenkins  
+CI/CD
+
+</td>
+
+<td align="center">
+
+### 🧪 Testing
+
+JUnit  
+Postman  
+Swagger  
+API Testing
+
+</td>
+
+<td align="center">
+
+### 🛠️ Tools
+
+Git  
+GitHub  
+IntelliJ IDEA  
+VS Code  
+Maven
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sauvik04&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sauvik04&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sauvik04&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Sauvik04">
+  <img src="https://img.shields.io/badge/GitHub-Sauvik04-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>☕ Java • Spring Boot • Angular • PostgreSQL • Docker • AWS</b>
+</p>
+
+<p align="center">
+  Building secure, scalable and production-oriented applications.
+</p>
