@@ -62,7 +62,7 @@
 ## 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 </p>
 
 <p align="center">
@@ -165,7 +165,6 @@ Bootstrap
 
 PostgreSQL  
 MySQL  
-MongoDB  
 Redis  
 RabbitMQ
 
